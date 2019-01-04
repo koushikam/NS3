@@ -2,7 +2,8 @@
 Load balancing algorithm for dense wifi network.
 
 Deep Reinforcement learning based Dense wifi network adaptive load balancing using NS3
-Network is designed using NS3 when input parameters and settings are controlled from Machine learning algorithm
+
+Network is designed using NS3 where input parameters and settings are controlled from Machine learning algorithm
 
 Dense WiFi Network in NS3 using Python.
 
