@@ -1,4 +1,4 @@
-# NS3
+# Deep RL based adaptive WiFi Load balancing
 Load balancing algorithm for dense wifi network.
 
 Deep Reinforcement learning based Dense wifi network adaptive load balancing using NS3
